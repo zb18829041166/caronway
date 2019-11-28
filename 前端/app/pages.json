@@ -1,0 +1,706 @@
+{
+	"pages": [
+		// pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		   "path":"pages/index/index",
+		   "style": {
+		   	"navigationBarTitleText": "首页",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/login/login",
+		   "style": {
+		   	"navigationBarTitleText": "登录",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/register/register",
+		   "style": {
+		   	"navigationBarTitleText": "注册",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+	
+	    {
+            "path" : "pages/secondhandcar/index/index",
+            "style" : {
+				"navigationBarTitleText": "二手车",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        },
+		{
+		   "path":"pages/Finance/index",
+		   "style": {
+		   	"navigationBarTitleText": "金融",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Policy-loan/index",
+		   "style": {
+		   	"navigationBarTitleText": "保单贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Decoration-loan/index",
+		   "style": {
+		   	"navigationBarTitleText": "装修贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		}, 
+		{
+		   "path":"pages/Finance/Enterprise-tax-loan-B/index",
+		   "style": {
+		   	"navigationBarTitleText": "企业税务贷B",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/monthlyLoanA/monthlyLoanA",
+		   "style": {
+		   	"navigationBarTitleText": "月供贷A",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/monthlyLoanB/monthlyLoanB",
+		   "style": {
+		   	"navigationBarTitleText": "月供贷B",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Business-loan/index",
+		   "style": {
+		   	"navigationBarTitleText": "经营贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Business-license-loan/index",
+		   "style": {
+		   	"navigationBarTitleText": "营业执照贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Purchase-winning-loan/index",
+		   "style": {
+		   	"navigationBarTitleText": "采购中标贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Enterprise-tax-loan-A/index",
+		   "style": {
+		   	"navigationBarTitleText": "企业税务贷A",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/housingLoan1/housingLoan1",
+		   "style": {
+		   	"navigationBarTitleText": "房产一押贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/housingLoan2/housingLoan2",
+		   "style": {
+		   	"navigationBarTitleText": "房产二押贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+		{
+		   "path":"pages/Finance/Provident-fund-loan/index",
+		   "style": {
+		   	"navigationBarTitleText": "公积金贷",
+		   	"app-plus": {
+		   		"titleNView": {
+		   			"buttons": [{
+		   				"text": "\ue534",
+		   				"fontSrc": "/static/uni.ttf",
+		   				"fontSize": "22px",
+		   				"color": "#999999"
+		   			}]
+		   		}
+		   	}
+		   }
+		},
+        {
+            "path" : "pages/secondhandcar/singlecar/singlecar",
+            "style" : {
+				"navigationBarTitleText": "车辆信息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/secondhandcar/cardealer/cardealer",
+            "style" : {
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" : {
+				"navigationBarTitleText": "搜索",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/becomevip/index/index",
+            "style" : {}
+        },
+		/* {
+            "path" : "pages/openshop/index/index",
+            "style" : {
+				"navigationBarTitleText": "开店申请",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }, */
+		{
+            "path" : "pages/secondhandcar/business/business",
+            "style" : {
+				"navigationBarTitleText": "车行信息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/secondhandcar/submitinfo/submitinfo",
+            "style" : {
+				"navigationBarTitleText": "提交爱车信息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/secondhandcar/choosecity/choosecity",
+            "style" : {
+				"navigationBarTitleText": "选择城市",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/openshop/uploadcar/uploadcar",
+            "style" : {
+				"navigationBarTitleText": "上传车辆信息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/index/index",
+            "style" : {
+				"navigationBarTitleText": "个人中心",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/message/message",
+            "style" : {
+				"navigationBarTitleText": "我的消息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/secondhandcar/cardeatil/cardeatil",
+            "style" : {
+				"navigationBarTitleText": "二手车详情",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/message/message",
+            "style" : {
+				"navigationBarTitleText": "我的消息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/complaint/complaint",
+            "style" : {
+				"navigationBarTitleText": "投诉处理结果",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/complaintdel/complaintdel",
+            "style" : {
+				"navigationBarTitleText": "投诉处理",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/levyfees/levyfees",
+            "style" : {
+				"navigationBarTitleText": "催费管理",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/examine/examine",
+            "style" : {
+				
+			}
+        }
+        ,{
+            "path" : "pages/application/director/examine/examine",
+            "style" : {
+				"navigationBarTitleText": "我的审核",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/examine-detail/examine-detail",
+            "style" : {
+				"navigationBarTitleText": "审核详情",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/setting/setting",
+            "style" : {
+				"navigationBarTitleText": "我的设置",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/shop/message/message",
+            "style" : {
+				"navigationBarTitleText": "我的消息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/shop/index/index",
+            "style" : {
+				"navigationBarTitleText": "我的店铺",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/person/message/message",
+            "style" : {
+				"navigationBarTitleText": "我的消息",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/person/car/car",
+            "style" : {
+				"navigationBarTitleText": "我的二手车",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/setlist/payset/payset",
+            "style" : {
+				"navigationBarTitleText": "收费设置",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/setlist/spotset/spotset",
+            "style" : {
+				"navigationBarTitleText": "展位设置",
+					"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/application/director/carbaseting/carbaseting",
+            "style" : {}
+        }
+        
+        ,{
+            "path" : "pages/openshop/shoplist/shoplist",
+            "style" : {}
+        }
+        
+        ,{
+            "path" : "pages/application/manage/list/list",
+            "style" : {}
+        }
+    ],
+	"subPackages": [
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "车行路上",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"mp-alipay": {
+			"titleBarColor": "#FFFFFF"
+		}
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

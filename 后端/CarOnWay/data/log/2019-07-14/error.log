@@ -1,0 +1,42 @@
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:48:03
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:48:07
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:48:10
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:48:12
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:48:15
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:50:39
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:50:45
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:50:48
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:50:54
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 04:51:06
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 08:28:13
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 08:28:16
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 08:28:19
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 on line  in file  2019-07-14 10:59:01
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 on line  in file  2019-07-14 11:01:29
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 14:11:35
+Unknown column 'undefined' in 'field list' on line  in file  2019-07-14 14:11:44
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 14:11:44
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 14:11:45
+Unknown column 'undefined' in 'where clause' on line  in file  2019-07-14 14:11:46
+Failed to open stream: addons/member/template/default/setadministor.html. No such file or directory. on line  in file  2019-07-14 14:18:49
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:40:34
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:40:49
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:42:42
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:42:47
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:45:11
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:46:35
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:46:40
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:46:44
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:47:21
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:49:19
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:49:25
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:50:23
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:50:26
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:50:30
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:51:35
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:51:40
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:53:02
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:53:09
+Failed to open stream: addons/member/template/default/member_set.html. No such file or directory. on line  in file  2019-07-14 19:53:13
+Failed to open stream: addons/member/template/default/member_concel.html. No such file or directory. on line  in file  2019-07-14 19:53:17
+

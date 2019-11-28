@@ -1,0 +1,175 @@
+
+	#ufooter .sq{
+		position: relative;
+		top: -53upx;
+		left: 40upx;
+		width: 30upx;
+	}
+	#ufooter .botm img{
+		width: 30upx;
+		height: 30upx;
+		float: left;
+	}
+	#ufooter .botm p{
+		position: relative;
+		line-height: 80upx;
+		color: #FFF;
+		font-size: 30upx;
+	}
+	#ufooter .botm{
+		border-radius:20upx;
+		text-align: center;
+		height: 80upx;
+		width: 300upx;
+		left: 20upx;
+		background-color: #02A7F0;
+	}
+	#ufooter{
+		justify-content:  space-around;
+		align-items: center;
+		display:flex;
+		position:relative;
+		margin-top: 20upx;
+		height: 140upx;
+		width: 750upx;
+	}
+	#ubody .txt .nom{
+		position: relative;
+		
+	}
+	#ubody .txt .black{
+		position: relative;
+		font-weight: bold;
+	}
+	#ubody .txt{
+		font-size: 25upx;
+		display: block;
+		position:relative;
+		margin: 16upx;
+		width: 700upx;
+	}
+	#ubody .txt23{
+		font-size: 25upx;
+		display: block;
+		position:relative;
+		margin: 16upx;
+		width: 700upx;
+		height: 200rpx;
+	}
+	#ubody .tig p{
+		text-align:right;
+		position: absolute;
+		color: #FFF;
+		left: 25upx;
+		line-height: 48upx;
+		font-size: 24upx;
+		
+	}
+	#ubody .color
+	{
+		color:#DD524D ;
+	}
+	#ubody .nom33
+	{
+		font-size: 30rpx;
+		color: #808080;
+		font-style: italic;
+	}
+	#ubody .tig{
+		display: block;
+		text-align: center;
+		position: relative;
+		border-radius: 0px 4vw 4vw 0px;
+		height: 48upx;
+		width: 180upx;
+		margin-top: 8upx;
+		margin-right: 580upx;
+		background-color:#95F204 ;
+		margin-bottom: 8upx;
+	}
+	
+	#ubody{
+		position:relative;
+		flex-direction: row;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		display:flex;
+		top: 35upx;
+		width: 750upx;
+		margin-bottom: 16upx;
+		
+	}
+	hr{
+		position:relative;
+		top: 20upx;
+		height: 15upx;
+		background-color: #F2F2F2;
+		border:none;
+	}
+	#uheader_foot{
+		text-align: center;
+		font-size: 40upx;
+	}
+	
+	.r{
+		position:relative;
+		line-height: 50upx;
+		text-align: left;
+		left: 270upx;
+		height: 50upx;
+		width: 400upx;
+		font-size:30upx;
+	}
+	.l{
+		line-height: 50upx;
+		position:absolute;
+		display: inline;
+		text-align: left;
+		left:100upx;
+		width: 125upx;
+		height: 50upx ;
+		font-size:26upx;
+	}
+	#uheader_txt3{
+		border-radius: 0px 0px 10upx 10upx;
+		top: 228upx;
+		background-color:rgba(0,0,0,0.6);
+		height: 182upx;
+		width: 100%;
+		color:#FFF;
+		position:absolute;
+	}
+	#uheader_txt2{
+		position: absolute;
+		background-color:rgba(236, 128, 141, 0.8);
+		text-align: center;
+		top:180upx;
+		width: 100%;
+		height: 50upx;
+		color: #FFF;
+	}
+	#uheader_txt1{
+		position:absolute;
+		text-align: center;
+		top:40upx;
+		width: 100%;
+		color: #FFF;
+		font-size: 80upx;
+		text-shadow:0px 0px 30upx rgba(0, 0, 0, 1);
+	}
+	#uheader_img{
+		border-radius: 10upx;
+		width:700upx;
+		height: 410upx;
+	}
+	#uheader{
+		position: relative;
+		display:flex;
+		width: 700upx;
+
+		top:1upx;
+		left: 25upx;
+	}
+	#main{
+		width: 750upx;
+	}
